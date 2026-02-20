@@ -1,3 +1,3 @@
 # Le projet HelloGit
 
-## Developpe pqr C#
+## Developpe par C#
