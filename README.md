@@ -1,1 +1,3 @@
-# hello-git
+# Le projet HelloGit
+
+## Developpe pqr C#
